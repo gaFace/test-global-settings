@@ -6,5 +6,5 @@ overrides:
     "dataloader.operation.timeout": 11 minutes
     "sml.environment.variables": 
       "CONNECTION: con1" 
-      "DB_NAME: atscale" 
-      "DB_SCHEMA: adventureworks2012"
+      DB_NAME: atscale
+      DB_SCHEMA: adventureworks2012"
