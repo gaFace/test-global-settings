@@ -5,4 +5,4 @@ overrides:
     "xmla.auth.token.enabled": true
     "dataloader.operation.timeout": 11 minutes
     "sml.environment.variables":
-      CONNECTION: con1
+      "CONNECTION: con1"
