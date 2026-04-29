@@ -13,4 +13,5 @@ overrides:
       CON5=con1
       CON6=con1
       CON7=con1
+      CON8=con1
       SCHEMA='adventureworks2012'
