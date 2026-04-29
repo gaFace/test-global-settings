@@ -7,5 +7,5 @@ overrides:
     "sml.environment.variables": 
       DB_SCHEMA='adventureworks2012' 
       CONNECTION='con1' 
-      CON=con1 
+      CON=con12 
       SCHEMA='adventureworks2012'
