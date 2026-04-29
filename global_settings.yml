@@ -8,4 +8,5 @@ overrides:
       DB_SCHEMA='adventureworks2012' 
       CONNECTION='con1' 
       CON=con12 
+      CON1=con1
       SCHEMA='adventureworks2012'
