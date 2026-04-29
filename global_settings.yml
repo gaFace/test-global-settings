@@ -9,4 +9,5 @@ overrides:
       CONNECTION='con1' 
       CON=con12 
       CON2=con1
+      CON4=con1
       SCHEMA='adventureworks2012'
